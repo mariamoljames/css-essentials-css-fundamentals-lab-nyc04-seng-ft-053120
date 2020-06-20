@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  margin: auto;
+}
+figure {
+  margin: auto;
+}
+nav {
+  margin: auto;
+  padding: 10px;
+  background: grey
+}
+figcaption{
+  font-size: small;
+}
+p#featured-property{
+  margin: auto;
+  width: 800px
+}
+#details{
+  display: block;
+}
+div{
+  float: left;
+  background: grey;
+  margin: auto;
+  width: 25%;
+}
