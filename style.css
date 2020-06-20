@@ -26,4 +26,7 @@ p#featured-property{
 }
 div{
   float: left;
+  background: grey;
+  margin: auto;
+  width: 25%;
 }
